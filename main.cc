@@ -13,7 +13,7 @@ int main(){
         return 1;
     }
 
-    double mass = 1.0;               // kg
+    double mass = 0.1;               // kg
     double radius = 0.1;             // meters
     double initialAngularVelocity = 100.0; // rad/s
     double initialTiltAngle = M_PI / 4;    // 30 degrees in radians
